@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moaaz900
+- 👋 Hi, I’m Moaaz Youssef
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data science projects
